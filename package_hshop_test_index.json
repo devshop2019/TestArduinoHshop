@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/devshop2019/TestArduinoHshop/releases/download/1.0.7/Hshop-avr1.0.7.zip",
           "archiveFileName": "Hshop-avr1.0.7.zip",
-          "checksum": "SHA-256:1115FD85FF66707C72F058B4F6EC254119753FEB94BC510A0C58A74DAB81F814",
-          "size": "6932891",
+          "checksum": "SHA-256:FD23311DD4B2B7E44F0DEE1C7D06C1D1E75854CCB4801D3F0BD3193C1AD7DFF3",
+          "size": "6933459",
           "boards": [
             {"name": "Arduino Uno"},
             {"name": "Arduino Mega"}
