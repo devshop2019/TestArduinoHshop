@@ -48,8 +48,8 @@
           },
           "url": "https://github.com/devshop2019/TestArduinoHshop/releases/download/1.0.8/Hshop-avr1.0.8.zip",
           "archiveFileName": "Hshop-avr1.0.8.zip",
-          "checksum": "SHA-256:C4066FDF272BEC0479B2A0ADDA72C2B8361ADBB886E7E9434C1F71F5201C9A13",
-          "size": "6933464",
+          "checksum": "SHA-256:18B0D75E227E3D4E231056799D7BD14CD975FCBA154209C564181C10F0ECB983",
+          "size": "6933503",
           "boards": [
             {"name": "Arduino Uno"},
             {"name": "Arduino Mega"}
